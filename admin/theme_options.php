@@ -85,7 +85,7 @@ function rypecore_theme_options_page() {
 <br/>
 
 <div class="theme-options-header">
-	<span class="theme-options-logo"><img src="<?php echo get_stylesheet_directory_uri(); ?>/admin/images/logo.png" alt="" /> <span class="logo-text">Rype Core</span></span>
+	<span class="theme-options-logo"><img src="<?php echo get_template_directory_uri(); ?>/admin/images/logo.png" alt="" /> <span class="logo-text">Rype Core</span></span>
     <div class="created-by">
         <a href="http://rypecreative.com/" target="_blank">Made by Rype Creative</a> | <a href="http://rypecreative.com/contact/" target="_blank">Support</a>
     </div>
